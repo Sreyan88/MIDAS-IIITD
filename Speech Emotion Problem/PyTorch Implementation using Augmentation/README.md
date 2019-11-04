@@ -6,5 +6,6 @@ Example on how to get predictions:
 ```
 $ python predict.py --input meld/test
 ```
+Output - Text file containing predictions and file names.
 
 ### Note: The entire code and model was trained on PyTorch GPU. So cuda is necessary for running any of the files. Please ensure you are running this script on a system with GPU support.

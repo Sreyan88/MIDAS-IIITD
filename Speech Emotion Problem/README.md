@@ -1,4 +1,4 @@
-## This folder contains files for Speech Emotion Recognition Problem
+## Speech Emotion Recognition Problem
 
 ### Approaches:
 1. Training 1D and 2D CNN using Log-Specgram features of a wav file (Using Keras)

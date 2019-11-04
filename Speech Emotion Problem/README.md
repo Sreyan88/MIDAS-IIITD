@@ -16,4 +16,4 @@ For Speech Emotion Recognition one can use either of these: raw wave form (1d), 
 ### My Approaches:
 1. Training 1D and 2D CNN using Log-Specgram features of a wav file (Using Keras)
 2. Training LSTM Network using Filter Bank features of a wav file (Using Keras)
-3. Training 2D CNN after augentation of a wav file (Using PyTorch)
+3. Training 2D CNN after augentation of a wav file and taking logmelspectrum features. Augmentations include adding random noise, random padding and random time shift.(Using PyTorch)

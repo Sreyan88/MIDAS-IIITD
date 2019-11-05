@@ -7,7 +7,15 @@ For Speech Emotion Recognition one can use either of these: raw wave form (1d), 
 </p>
 
 <p align="center">
+<b>Raw Wav File</b>
+</p>
+
+<p align="center">
 <img width="1400" height="300" src="https://github.com/Sreyan88/MIDASS-IIITD/blob/master/Speech%20Emotion%20Problem/Extra/spectrogram.PNG">
+</p>
+
+<p align="center">
+<b>Spectrogram</b>
 </p>
 
 ### Useful Definitions:

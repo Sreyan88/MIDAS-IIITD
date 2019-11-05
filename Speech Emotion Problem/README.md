@@ -3,7 +3,7 @@
 For Speech Emotion Recognition one can use either of these: raw wave form (1d), logmelspectrum (2d), logspecgram (2d), mfcc (2d), filterbank (2d) or mixture of these.
 
 <p align="center">
-<img width="1400" height="300" src="https://github.com/Sreyan88/MIDAS-IIITD/blob/master/Extra/wave.png">
+<img width="1400" height="300" src="https://github.com/Sreyan88/MIDAS-IIITD/blob/master/Speech Emotion Problem/Extra/wave.png">
 </p>
 
 ### Useful Definitions:

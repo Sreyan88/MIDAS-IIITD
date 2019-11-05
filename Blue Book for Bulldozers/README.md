@@ -21,7 +21,6 @@ The dataset has been obtained from a Kaggle competition and can be found by clic
 <li><b>saledate: </b>The date of the sale.</li></ul>
 <h2> METRIC:</h2>
 The model was evaluated on the Root Mean Square Logarithmic Error (RMSLE) between the predicted value and observed score values. 
-<br><br>
 
 ### This folder contains model, jupyter notebook file (training code) and python script which predicts classes when run in terminal with location of the test file as argument.
 
@@ -32,6 +31,6 @@ Example on how to get predictions:
 $ python bulldozer.py 
 ```
 Output - CSV file containing predictions.
-<br>
+<br><br>
 <b>Note: </b>The train and test files should be in the same repository and the final predictions made on the test dataset was not submitted onto Kaggle for evaluation due to the unavailability of the Submission Tab.<br>
 <b>make_conda_env_sh.sh</b> - Bash Script for making conda environment and installing all dependancies.

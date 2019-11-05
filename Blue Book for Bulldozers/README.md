@@ -1,4 +1,8 @@
 ## Blue Book for Bulldozers
+
+![Snapshot](https://user-images.githubusercontent.com/36225987/68218369-365da080-000a-11ea-8778-80bf14d23b5a.JPG)
+
+
 The objective was to Predict the auction sale price for a piece of heavy equipment to create a "blue book" for bulldozers. <br>
 The datasets used was split into two parts:
 <ul>
@@ -16,8 +20,7 @@ The dataset has been obtained from a Kaggle competition and can be found by clic
 <li><b>saleprice:</b>The price at which the machine was old for at auction (only provided in training dataset and also our target variable).</li>
 <li><b>saledate:</b>The date of the sale.</li></ul>
 <h2> METRIC:</h2>
-Submissions are evaluated on the Root Mean Square Logarithmic Error (RMSLE) between the predicted value and observed score values. 
-<p align="center">
-<img width="1400" height="200" src="https://miro.medium.com/max/1154/1*9P4NEvK5qYN5Bhu0yOEzhw.png">
-</p>
+The model was evaluated on the Root Mean Square Logarithmic Error (RMSLE) between the predicted value and observed score values. 
+
+<b>Bulldozer.ipynb</b> - The IPython Notebook that contains all the code for this project.<br>
 <b>make_conda_env_sh.sh</b> - Bash Script for making conda environment and installing all dependancies.

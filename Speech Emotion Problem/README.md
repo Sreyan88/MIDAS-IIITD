@@ -2,6 +2,10 @@
 
 For Speech Emotion Recognition one can use either of these: raw wave form (1d), logmelspectrum (2d), logspecgram (2d), mfcc (2d), filterbank (2d) or mixture of these.
 
+<p align="center">
+<img width="1400" height="300" src="https://github.com/Sreyan88/MIDAS-IIITD/blob/master/Extra/wave.png">
+</p>
+
 ### Useful Definitions:
 <b>Specgram</b>-Time-dependent frequency analysis (spectrogram).Specgram computes the windowed discrete-time Fourier transform of a signal using a sliding window. The spectrogram is the magnitude of this function.
 

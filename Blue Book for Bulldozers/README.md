@@ -22,5 +22,16 @@ The dataset has been obtained from a Kaggle competition and can be found by clic
 <h2> METRIC:</h2>
 The model was evaluated on the Root Mean Square Logarithmic Error (RMSLE) between the predicted value and observed score values. 
 <br><br>
-<b>Bulldozer.ipynb</b> - The IPython Notebook that contains all the code for this project.<br>
+
+### This folder contains model, jupyter notebook file (training code) and python script which predicts classes when run in terminal with location of the test file as argument.
+
+Please use make_conda_env.sh bash script for making conda environment with specific dependancies.
+
+Example on how to get predictions:
+```
+$ python bulldozer.py 
+```
+Output - CSV file containing predictions.
+<br>
+<b>Note: </b>The train and test files should be in the same repository and the final predictions made on the test dataset was not submitted onto Kaggle for evaluation due to the unavailability of the Submission Tab.<br>
 <b>make_conda_env_sh.sh</b> - Bash Script for making conda environment and installing all dependancies.

@@ -12,7 +12,7 @@ of 2011 and from January 1, 2012 - April 30, 2012</li>
 data from May 1, 2012 - November 2012.</li>
 </ul>
 The dataset has been obtained from a Kaggle competition and can be found by clicking
-<a href="https://www.kaggle.com/c/bluebook-for-bulldozers/data">here</a>.</font><br><br>
+<a href="https://www.kaggle.com/c/bluebook-for-bulldozers/data">here</a>.</font><br>
 <h2> Key data fields in the training dataset are as follows:</h2>
 <ul>
 <li><b>SalesID: </b>The Unique Identifier of the sale.</li>

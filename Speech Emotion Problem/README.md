@@ -36,3 +36,4 @@ For Speech Emotion Recognition one can use either of these: raw wave form (1d), 
 4. Training LightGBM for 1d data, both wave and mean of melspectogram.
 
 <b>make_conda_env.sh</b> - Bash Script for making conda environment and installing all dependancies.
+<b>Extra</b>- Contains pictures and README.txt.

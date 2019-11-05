@@ -15,10 +15,10 @@ The dataset has been obtained from a Kaggle competition and can be found by clic
 <a href="https://www.kaggle.com/c/bluebook-for-bulldozers/data">here</a>.</font><br><br>
 <h2> Key data fields in the training dataset are as follows:</h2>
 <ul>
-<li><b>SalesID:</b>The Unique Identifier of the sale.</li>
-<li><b>MachineID:</b>The unique identifier of a machine. Note: A machine can be sold multiple times.</li>
-<li><b>saleprice:</b>The price at which the machine was old for at auction (only provided in training dataset and also our target variable).</li>
-<li><b>saledate:</b>The date of the sale.</li></ul>
+<li><b>SalesID: </b>The Unique Identifier of the sale.</li>
+<li><b>MachineID: </b>The unique identifier of a machine. Note: A machine can be sold multiple times.</li>
+<li><b>saleprice: </b>The price at which the machine was old for at auction (only provided in training dataset and also our target variable).</li>
+<li><b>saledate: </b>The date of the sale.</li></ul>
 <h2> METRIC:</h2>
 The model was evaluated on the Root Mean Square Logarithmic Error (RMSLE) between the predicted value and observed score values. 
 <br><br>

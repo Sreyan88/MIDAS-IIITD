@@ -21,6 +21,6 @@ The dataset has been obtained from a Kaggle competition and can be found by clic
 <li><b>saledate:</b>The date of the sale.</li></ul>
 <h2> METRIC:</h2>
 The model was evaluated on the Root Mean Square Logarithmic Error (RMSLE) between the predicted value and observed score values. 
-
+<br>
 <b>Bulldozer.ipynb</b> - The IPython Notebook that contains all the code for this project.<br>
 <b>make_conda_env_sh.sh</b> - Bash Script for making conda environment and installing all dependancies.

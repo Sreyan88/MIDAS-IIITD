@@ -15,7 +15,7 @@ For Speech Emotion Recognition one can use either of these: raw wave form (1d), 
 </p>
 
 <p align="center">
-<b>Spectrogram</b>
+<b>Spectrogram of Wav File</b>
 </p>
 
 ### Useful Definitions:

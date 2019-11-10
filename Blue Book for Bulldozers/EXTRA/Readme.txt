@@ -29,6 +29,11 @@ make_conda_env_sh.sh - Bash Script for making conda environment and installing a
 
 The dataset has been obtained from a Kaggle competition and can be found by clicking on the link of README.md .
 
-The Baseline accuracy obtained was 0.2381716487809174
-The accuracy obtained after tuning the hyperparameters were: 0.24881865963344546
+The RMSLE score obtained for the Baseline model was 0.2381716487809174
+The RMSLE score obtained obtained after tuning the hyperparameters was: 0.24881865963344546
+From this it has been noticed that the results have minimal improvement after tuning the hyperparameters.
 
+Future Improvements:
+Further fine tuning can be done by selecting a differnt combinations of features and perhaps trying other ensembling techniques such as Stacking.
+
+The main problems faced was with the data itself. There was a high percentage of missing values in 53 features of the dataset. The values were either missing or were erroneous.
